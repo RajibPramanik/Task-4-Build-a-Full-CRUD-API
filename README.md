@@ -273,7 +273,7 @@ Example of validation error:
 The project follows the standard Spring Boot structure:
 
 ```
-src/main/java/com/learnwithiftekhar/spring_boot_rest_api/
+src/main/java/com/spring_boot_rest_api/
     ├── controller/      # REST controllers for handling HTTP requests
     ├── model/          # Data models representing products
     ├── repository/     # Repository layer for interacting with the database
