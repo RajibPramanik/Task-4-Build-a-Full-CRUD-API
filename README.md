@@ -294,5 +294,4 @@ src/main/java/com/spring_boot_rest_api/
 - **Data Validation:** Description of input validation rules.
 - **Folder Structure:** Overview of the project structure for better understanding.
 
----
-This README provides a thorough and clear explanation of your project. It also includes good practices like showing example requests and responses for each API endpoint, explaining how to run the project, and providing error-handling information.
+
